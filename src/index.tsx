@@ -1,5 +1,6 @@
 import "./generics";
 import "./extends";
-import "./generic-interfaces";
+import "./genericInterfaces";
+import "./genericsUseCase";
 
 export {};
